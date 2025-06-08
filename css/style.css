@@ -4,7 +4,7 @@ html {
 
 body {
   background-color: #635644;
-  background-image: url(../images/zerno.jpg);
+  background-image: url("../images/zerno.jpg");
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
